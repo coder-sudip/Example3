@@ -1,1 +1,1 @@
-hello from feature1(from main) (from feature1)
+hello from feature1(from main) 
